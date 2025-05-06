@@ -32,7 +32,7 @@ Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş, sekmeli yapıya sah
 
 Not Defteri Uygulamasını indirmek için aşağıdaki adımları takip edebilirsiniz:
 
-1. [**Not Defteri Uygulamasını İndir**](NotDefteri.zip) linkine tıklayın.
+1. [**Not Defteri Uygulamasını İndir**](PROJELER.zip) linkine tıklayın.
 2. **.application** dosyasını çalıştırın.
 3. Uygulama yüklenecektir.
 
