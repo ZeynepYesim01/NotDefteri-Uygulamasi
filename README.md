@@ -17,7 +17,8 @@ Bu proje, C# ve Windows Forms kullanılarak geliştirilmiş, sekmeli yapıya sah
 - **C#**
 - **.NET Framework**
 - **Windows Forms**
-  
+
+  ## Ekran Görüntüleri
 ![Not Defteri Görseli](Assets/1.png)
 
 ![Not Defteri Görseli](Assets/2.png)
