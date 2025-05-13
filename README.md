@@ -38,4 +38,5 @@ Not Defteri Uygulamasını indirmek için aşağıdaki adımları takip edebilir
 
 ### Kurulum Detayları
 Uygulama, **ClickOnce** kullanılarak yayımlandı, bu nedenle güncellemeler otomatik olarak yapılacaktır.
+Licensed under the [MIT License](LICENSE).
 
